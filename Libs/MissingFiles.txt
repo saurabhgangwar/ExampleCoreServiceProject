@@ -1,0 +1,1 @@
+Copy the  Tridion.ContentManager.CoreService.Client assembly from bin\client subdirectory of %TRIDION_HOME% (defaults to C:\Program Files (x86)\Tridion\) this location.
